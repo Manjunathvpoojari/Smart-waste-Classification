@@ -1,0 +1,151 @@
+id,image_name,waste_type,material,recyclable
+1,plastic_1.jpg,Plastic,PET,Yes
+2,metal_2.jpg,Metal,Copper,Yes
+3,glass_3.jpg,Glass,Ceramic,No
+4,other_4.jpg,Other,Fabric,No
+5,paper_5.jpg,Paper,Newspaper,Yes
+6,metal_6.jpg,Metal,Steel,Yes
+7,other_7.jpg,Organic,Farbic,
+8,electronic_8.jpg,Electronic,E-waste,No
+9,paper_9.jpg,Plastic,,Yes
+10,plastic_10.jpg,Plastic,HDPE,Yes
+11,organic_11.jpg,Organic,Compost,Yes
+12,glass_12.jpg,Glass,Glass,No
+13,glass_13.jpg,Glass,Broken Glass,
+14,metal_14.jpg,Metal,,Yes
+15,metal_15.jpg,Metal,Copepr,Yes
+16,glass_16.jpg,Glass,Glass,No
+17,electronic_17.jpg,Electronic,E-waste,
+18,organic_18.jpg,Organic,Compots,Yes
+19,glass_19.jpg,Glass,Broken Glass,No
+20,plastic_20.jpg,Plastic,PET,Yes
+21,paper_21.jpg,Paper,Cardboard,Yes
+22,plastic_22.jpg,Organic,,Yes
+23,plastic_23.jpg,Plastic,PET,Yes
+24,metal_24.jpg,Metal,Steel,Yes
+25,organic_25.jpg,Organic,,No
+26,plastic_26.jpg,Plastic,Polypropylene,Yes
+27,other_27.jpg,Other,Leather,
+28,organic_28.jpg,Organic,Cmopost,No
+29,organic_29.jpg,Organic,Garden Waste,
+30,paper_30.jpg,Paper,Cardboard,Yes
+31,glass_31.jpg,Paper,Ceramic,Yes
+32,plastic_32.jpg,Plastic,Polypropylene,Yes
+33,other_33.jpg,Other,Leather,No
+34,metal_34.jpg,Electronic,Steel,Yes
+35,plastic_35.jpg,Plastic,PVC,Yes
+36,metal_36.jpg,Metal,Aluminum,Yes
+37,organic_37.jpg,Glass,Compost,Yes
+38,paper_38.jpg,Metal,Cardboard,Yes
+39,electronic_39.jpg,Electronic,Battery,No
+40,electronic_40.jpg,Plastic,Ew-aste,No
+41,paper_41.jpg,Paper,,Yes
+42,organic_42.jpg,Organic,Compost,No
+43,organic_43.jpg,Organic,Compost,No
+44,plastic_44.jpg,Plastic,PET,Yes
+45,plastic_45.jpg,Plastic,PVC,Yes
+46,metal_46.jpg,Metal,Steel,No
+47,organic_47.jpg,Organic,Food Waste,
+48,paper_48.jpg,Paper,Magazine,Yes
+49,electronic_49.jpg,Electronic,E-wsate,No
+50,plastic_50.jpg,Plastic,PET,No
+51,electronic_51.jpg,Electronic,E-waste,No
+52,plastic_52.jpg,Plastic,HDPE,Yes
+53,paper_53.jpg,Paper,Newspaper,No
+54,plastic_54.jpg,Plastic,PVC,Yes
+55,metal_55.jpg,Metal,Copper,Yes
+56,organic_56.jpg,Organic,Garden Waste,No
+57,electronic_57.jpg,Electronic,E-waste,No
+58,paper_58.jpg,Paper,Newspaper,Yes
+59,organic_59.jpg,Organic,Food Waste,No
+60,metal_60.jpg,Organic,Copper,No
+61,glass_61.jpg,Glass,Broken Glass,
+62,glass_62.jpg,Glass,Glass,No
+63,paper_63.jpg,Glass,Cadrboard,No
+64,metal_64.jpg,Metal,Aluminum,Yes
+65,metal_65.jpg,Metal,,Yes
+66,metal_66.jpg,Metal,,Yes
+67,metal_67.jpg,Metal,Copper,
+68,metal_68.jpg,Metal,,Yes
+69,paper_69.jpg,Paper,Magazine,Yes
+70,other_70.jpg,Other,Leather,
+71,paper_71.jpg,Glass,Cardboard,No
+72,paper_72.jpg,Paper,Newspaper,Yes
+73,paper_73.jpg,Paper,Magazine,Yes
+74,glass_74.jpg,Glass,Glass,No
+75,other_75.jpg,Other,Fabric,No
+76,organic_76.jpg,Organic,Compost,No
+77,other_77.jpg,Other,Fabric,No
+78,plastic_78.jpg,Plastic,PET,Yes
+79,electronic_79.jpg,Electronic,Ew-aste,Yes
+80,electronic_80.jpg,Electronic,Battery,
+81,metal_81.jpg,Metal,Tin,Yes
+82,electronic_82.jpg,Electronic,Battery,
+83,paper_83.jpg,Paper,Cardboard,Yes
+84,metal_84.jpg,Metal,Aluminum,Yes
+85,glass_85.jpg,Plastic,Broken Glass,Yes
+86,metal_86.jpg,Metal,Copper,Yes
+87,other_87.jpg,Organic,Leatehr,No
+88,metal_88.jpg,Metal,Aluminum,
+89,glass_89.jpg,Glass,Ceramic,No
+90,electronic_90.jpg,Other,E-waste,Yes
+91,other_91.jpg,Other,Leather,No
+92,plastic_92.jpg,Plastic,PET,Yes
+93,plastic_93.jpg,Plastic,HDPE,Yes
+94,metal_94.jpg,Metal,Copper,Yes
+95,electronic_95.jpg,Electronic,E-waste,No
+96,glass_96.jpg,Glass,Glass,Yes
+97,glass_97.jpg,Glass,Broken Glass,No
+98,paper_98.jpg,Paper,Newspaper,Yes
+99,glass_99.jpg,Glass,Glass,No
+100,plastic_100.jpg,Plastic,PVC,Yes
+101,metal_101.jpg,Metal,,Yes
+102,electronic_102.jpg,Electronic,E-waste,No
+103,organic_103.jpg,Organic,Garden Waste,No
+104,other_104.jpg,Other,Leather,No
+105,plastic_105.jpg,Plastic,PET,Yes
+106,metal_106.jpg,Metal,Copper,Yes
+107,metal_107.jpg,Metal,Steel,Yes
+108,plastic_108.jpg,Plastic,,Yes
+109,paper_109.jpg,Paper,Magazine,
+110,metal_110.jpg,Metal,Tin,Yes
+111,electronic_111.jpg,Electronic,Battery,No
+112,plastic_112.jpg,Plastic,PET,Yes
+113,glass_113.jpg,Glass,Glass,No
+114,plastic_114.jpg,Plastic,PVC,Yes
+115,organic_115.jpg,Organic,Garden Waste,No
+116,electronic_116.jpg,Electronic,aBttery,No
+117,metal_117.jpg,Metal,Steel,Yes
+118,paper_118.jpg,Paper,Magazine,Yes
+119,other_119.jpg,Other,,No
+120,other_120.jpg,Other,Leather,No
+121,electronic_121.jpg,Electronic,E-waste,No
+122,electronic_122.jpg,Electronic,,No
+123,glass_123.jpg,Glass,Broken Glass,No
+124,paper_124.jpg,Paper,Cardboard,Yes
+125,plastic_125.jpg,Plastic,Polyporpylene,
+126,organic_126.jpg,Organic,Garden Waste,No
+127,other_127.jpg,Other,Fabric,No
+128,glass_128.jpg,Glass,,No
+129,paper_129.jpg,Paper,Magazine,Yes
+130,glass_130.jpg,Glass,Glass,No
+131,glass_131.jpg,Glass,Ceramic,No
+132,electronic_132.jpg,Electronic,Battery,No
+133,metal_133.jpg,Metal,Tin,Yes
+134,metal_134.jpg,Metal,Steel,Yes
+135,plastic_135.jpg,Plastic,HDPE,Yes
+136,plastic_136.jpg,Plastic,HDPE,Yes
+137,glass_137.jpg,Glass,Broken Glass,No
+138,electronic_138.jpg,Electronic,Battery,No
+139,glass_139.jpg,Glass,Ceramic,No
+140,organic_140.jpg,Organic,Food Waste,
+141,metal_141.jpg,Metal,Aluminum,Yes
+142,plastic_142.jpg,Plastic,PET,Yes
+143,metal_143.jpg,Metal,Stele,No
+144,metal_144.jpg,Paper,,Yes
+145,plastic_145.jpg,Plastic,PVC,Yes
+146,metal_146.jpg,Metal,Copper,Yes
+147,metal_147.jpg,Metal,Steel,No
+148,plastic_148.jpg,Plastic,PET,Yes
+149,other_149.jpg,Other,,No
+150,organic_150.jpg,Organic,Food Waste,No
